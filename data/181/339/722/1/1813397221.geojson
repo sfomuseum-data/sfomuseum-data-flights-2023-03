@@ -2,10 +2,12 @@
   "id": 1813397221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-03-01",
+    "date:cessation_upper": "2023-03-01",
     "date:inception_lower": "2023-03-01",
     "date:inception_upper": "2023-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-03-01",
+    "edtf:cessation": "2023-03-01T15:46:06Z",
+    "edtf:inception": "2023-03-01T14:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28255167"
+    },
     "wof:country": "US",
     "wof:created": 1677773089,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,7 +97,7 @@
       1763588127,
       1159283849
     ],
-    "wof:lastmodified": 1677773089,
+    "wof:lastmodified": 1677774526,
     "wof:name": "AS1082 (SEA-SFO)",
     "wof:parent_id": 1763588127,
     "wof:placetype": "custom",

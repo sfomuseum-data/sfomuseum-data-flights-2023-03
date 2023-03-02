@@ -2,10 +2,12 @@
   "id": 1813402133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-03-01",
+    "date:cessation_upper": "2023-03-01",
     "date:inception_lower": "2023-03-01",
     "date:inception_upper": "2023-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-03-01",
+    "edtf:cessation": "2023-03-01T21:41:47Z",
+    "edtf:inception": "2023-03-01T17:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.580671,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528779,
     "sfomuseum:base_flight_id": "20230301-D-VOZ-8482",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47524",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28272409",
+      "swim:gufi": "KO55298400"
+    },
     "wof:country": "US",
     "wof:created": 1677774378,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1813402133,
     "wof:involves": [
-      102528779,
       102527513,
       1159285413,
       1763588285,
-      1159285485
+      1159285485,
+      1528104577,
+      102528779
     ],
-    "wof:lastmodified": 1677774378,
+    "wof:lastmodified": 1677774523,
     "wof:name": "UA472 (SFO-RDU)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
