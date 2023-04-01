@@ -1,0 +1,69 @@
+{
+  "id": 1846786573,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-03-31",
+    "date:inception_upper": "2023-03-31",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-03-31",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2023-03-31",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8",
+    "flysfo:gate": "",
+    "flysfo:journey": "CTU-SFO",
+    "flysfo:scheduled_timestamp": 1680273900,
+    "flysfo:timestamp": 1680273900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,30.579342,103.956661,37.617990",
+    "geom:latitude": 34.098666,
+    "geom:longitude": -9.207141,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102551065,
+    "sfomuseum:flight_id": "20230331-A-UAL-8",
+    "sfomuseum:flight_number": [
+      "UAL8",
+      "UA8"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1680365752,
+    "wof:geomhash": "79fa80c38cee3f9a1cadedd473680b07",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1846786573
+      }
+    ],
+    "wof:id": 1846786573,
+    "wof:involves": [
+      102527513,
+      102551065,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1680365752,
+    "wof:name": "UA8 (CTU-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    30.579342,
+    103.956661,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[103.956661,30.579342],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
