@@ -48,6 +48,7 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "custom_id": 1846728223,
         "flight_id": 1846728223
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1679761758,
+    "wof:lastmodified": 1717043344,
     "wof:name": "WN8701 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

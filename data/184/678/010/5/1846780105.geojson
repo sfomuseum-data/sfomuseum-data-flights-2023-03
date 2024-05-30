@@ -48,6 +48,7 @@
     "wof:geomhash": "855a08f9b6f780333367899da8373a5a",
     "wof:hierarchy": [
       {
+        "custom_id": 1846780105,
         "flight_id": 1846780105
       }
     ],
@@ -58,11 +59,13 @@
       1159292325,
       102532277
     ],
-    "wof:lastmodified": 1680280341,
+    "wof:lastmodified": 1717043351,
     "wof:name": "MX4601 (SFO-PVU)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

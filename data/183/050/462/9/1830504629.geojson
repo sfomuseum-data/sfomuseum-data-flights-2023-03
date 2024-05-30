@@ -48,6 +48,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1830504629,
         "flight_id": 1830504629
       }
     ],
@@ -58,11 +59,13 @@
       102527209,
       1763552131
     ],
-    "wof:lastmodified": 1679329732,
+    "wof:lastmodified": 1717043353,
     "wof:name": "MX6205 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

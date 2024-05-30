@@ -48,6 +48,7 @@
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
     "wof:hierarchy": [
       {
+        "custom_id": 1813430173,
         "flight_id": 1813430173
       }
     ],
@@ -58,11 +59,13 @@
       102530009,
       102527513
     ],
-    "wof:lastmodified": 1678033675,
+    "wof:lastmodified": 1717043342,
     "wof:name": "UA8150 (SFO-MSY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

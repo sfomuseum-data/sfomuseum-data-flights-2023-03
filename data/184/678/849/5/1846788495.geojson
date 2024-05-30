@@ -45,6 +45,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1846788495,
         "flight_id": 1846788495
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284625
     ],
-    "wof:lastmodified": 1680366215,
+    "wof:lastmodified": 1717043342,
     "wof:name": "DL2267 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

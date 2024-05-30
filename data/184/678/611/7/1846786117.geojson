@@ -40,6 +40,7 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "custom_id": 1846786117,
         "flight_id": 1846786117
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1680365643,
+    "wof:lastmodified": 1717043341,
     "wof:name": "UA1193 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

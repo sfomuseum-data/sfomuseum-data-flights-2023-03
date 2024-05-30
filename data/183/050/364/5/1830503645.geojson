@@ -48,6 +48,7 @@
     "wof:geomhash": "c1b858affbd20b2c728ba535a4ce178e",
     "wof:hierarchy": [
       {
+        "custom_id": 1830503645,
         "flight_id": 1830503645
       }
     ],
@@ -58,11 +59,13 @@
       1159283813,
       1528104577
     ],
-    "wof:lastmodified": 1679329747,
+    "wof:lastmodified": 1717043352,
     "wof:name": "AS9201 (CUN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

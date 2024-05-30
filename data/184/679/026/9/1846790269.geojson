@@ -40,6 +40,7 @@
     "wof:geomhash": "8a4a8d08e2e66037bce440d01d4bc21e",
     "wof:hierarchy": [
       {
+        "custom_id": 1846790269,
         "flight_id": 1846790269
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1680366647,
+    "wof:lastmodified": 1717043338,
     "wof:name": "UA888 (SFO-PEK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

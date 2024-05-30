@@ -40,6 +40,7 @@
     "wof:geomhash": "aececf2287744493115a1cd2999bcd1e",
     "wof:hierarchy": [
       {
+        "custom_id": 1846780879,
         "flight_id": 1846780879
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1680280151,
+    "wof:lastmodified": 1717043352,
     "wof:name": "UA2749 (SFO-GYR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

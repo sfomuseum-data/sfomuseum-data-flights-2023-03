@@ -48,6 +48,7 @@
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
     "wof:hierarchy": [
       {
+        "custom_id": 1846781081,
         "flight_id": 1846781081
       }
     ],
@@ -58,11 +59,13 @@
       1159289871,
       102533575
     ],
-    "wof:lastmodified": 1680280346,
+    "wof:lastmodified": 1717043338,
     "wof:name": "UA8110 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

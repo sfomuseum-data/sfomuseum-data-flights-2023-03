@@ -45,6 +45,7 @@
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
     "wof:hierarchy": [
       {
+        "custom_id": 1846741597,
         "flight_id": 1846741597
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286015
     ],
-    "wof:lastmodified": 1679933891,
+    "wof:lastmodified": 1717043339,
     "wof:name": "AC5600 (SFO-MUC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

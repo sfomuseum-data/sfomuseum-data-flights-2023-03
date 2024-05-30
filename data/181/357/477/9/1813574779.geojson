@@ -48,6 +48,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1813574779,
         "flight_id": 1813574779
       }
     ],
@@ -58,11 +59,13 @@
       1159289939,
       102530049
     ],
-    "wof:lastmodified": 1678897746,
+    "wof:lastmodified": 1717043350,
     "wof:name": "UA8206 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

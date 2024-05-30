@@ -48,6 +48,7 @@
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
+        "custom_id": 1813406711,
         "flight_id": 1813406711
       }
     ],
@@ -58,11 +59,13 @@
       1159285413,
       1159289965
     ],
-    "wof:lastmodified": 1677860991,
+    "wof:lastmodified": 1717043345,
     "wof:name": "UA2745 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

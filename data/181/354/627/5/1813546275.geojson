@@ -40,6 +40,7 @@
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
     "wof:hierarchy": [
       {
+        "custom_id": 1813546275,
         "flight_id": 1813546275
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1678637525,
+    "wof:lastmodified": 1717043348,
     "wof:name": "UA2727 (BZN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

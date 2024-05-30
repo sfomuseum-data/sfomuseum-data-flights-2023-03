@@ -48,6 +48,7 @@
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
     "wof:hierarchy": [
       {
+        "custom_id": 1813433641,
         "flight_id": 1813433641
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102531131
     ],
-    "wof:lastmodified": 1678120220,
+    "wof:lastmodified": 1717043344,
     "wof:name": "DL2611 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "5251ebd94a7bdc5872b19729ff2a2674",
     "wof:hierarchy": [
       {
+        "custom_id": 1813433929,
         "flight_id": 1813433929
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102554473
     ],
-    "wof:lastmodified": 1678120206,
+    "wof:lastmodified": 1717043344,
     "wof:name": "F8749 (YEG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

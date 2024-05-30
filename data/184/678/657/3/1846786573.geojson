@@ -40,6 +40,7 @@
     "wof:geomhash": "79fa80c38cee3f9a1cadedd473680b07",
     "wof:hierarchy": [
       {
+        "custom_id": 1846786573,
         "flight_id": 1846786573
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1680365752,
+    "wof:lastmodified": 1717043341,
     "wof:name": "UA8 (CTU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

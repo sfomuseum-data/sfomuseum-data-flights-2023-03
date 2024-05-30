@@ -45,6 +45,7 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "custom_id": 1813520621,
         "flight_id": 1813520621
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1678378363,
+    "wof:lastmodified": 1717043345,
     "wof:name": "UA362 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

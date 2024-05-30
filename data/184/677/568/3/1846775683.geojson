@@ -48,6 +48,7 @@
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
+        "custom_id": 1846775683,
         "flight_id": 1846775683
       }
     ],
@@ -58,11 +59,13 @@
       102556703,
       1159284021
     ],
-    "wof:lastmodified": 1680280346,
+    "wof:lastmodified": 1717043340,
     "wof:name": "BA9607 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
     "wof:hierarchy": [
       {
+        "custom_id": 1846720369,
         "flight_id": 1846720369
       }
     ],
@@ -50,11 +51,13 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1679675216,
+    "wof:lastmodified": 1717043339,
     "wof:name": "WN8501 (SFO-SJC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

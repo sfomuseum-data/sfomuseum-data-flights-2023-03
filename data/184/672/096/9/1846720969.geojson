@@ -48,6 +48,7 @@
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
+        "custom_id": 1846720969,
         "flight_id": 1846720969
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1679675483,
+    "wof:lastmodified": 1717043339,
     "wof:name": "UA8169 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

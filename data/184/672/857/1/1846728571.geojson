@@ -48,6 +48,7 @@
     "wof:geomhash": "749696abda6afece8bfb20d9b4325da6",
     "wof:hierarchy": [
       {
+        "custom_id": 1846728571,
         "flight_id": 1846728571
       }
     ],
@@ -58,11 +59,13 @@
       1159285413,
       1159289945
     ],
-    "wof:lastmodified": 1679761764,
+    "wof:lastmodified": 1717043344,
     "wof:name": "UA2737 (SFO-AMA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

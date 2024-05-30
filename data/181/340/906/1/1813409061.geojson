@@ -40,6 +40,7 @@
     "wof:geomhash": "d4a7e38ab5b38aac9300ec43a62729ca",
     "wof:hierarchy": [
       {
+        "custom_id": 1813409061,
         "flight_id": 1813409061
       }
     ],
@@ -50,11 +51,13 @@
       1763552143,
       -1
     ],
-    "wof:lastmodified": 1677860568,
+    "wof:lastmodified": 1717043347,
     "wof:name": "F8750 (SFO-YEG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1813396525,
         "flight_id": 1813396525
       }
     ],
@@ -50,11 +51,13 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1677772897,
+    "wof:lastmodified": 1717043339,
     "wof:name": "OZ283 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-03",
     "wof:superseded_by": [],
     "wof:supersedes": []
